@@ -1,0 +1,5 @@
+{
+  "name": "Cobrança Inteligente Pro",
+  "description": "Uma aplicação profissional para importação de planilhas de cobrança, cálculo automático de juros e margem de 5%, e geração de mensagens persuasivas via IA Gemini.",
+  "requestFramePermissions": []
+}
